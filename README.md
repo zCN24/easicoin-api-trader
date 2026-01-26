@@ -3,7 +3,7 @@
 一个完整的、生产级别的Python API客户端库，用于**Easicoin交易所**的期货交易。支持REST API和WebSocket实时数据流。
 
 **版本**: 1.0.0  
-**文档**: https://docs.easicoin.io
+**文档**: https://www.easicoin.io/api-doc/zh-CN/common/Info
 
 ## 功能特性
 
@@ -439,8 +439,7 @@ MIT License
 
 - 官网: https://www.easicoin.io
 - 帮助中心: https://easicoin.zendesk.com/hc/zh-cn
-- API文档: https://docs.easicoin.io
-
+- API文档: https://www.easicoin.io/api-doc/zh-CN/common/Info
 ---
 
 **最后更新**: 2026年1月26日
